@@ -1,0 +1,11 @@
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: Montserrat, sans-serif;
+    display: flex;  
+    flex-direction: column;
+    justify-content: center;
+    background-image: url("https://i.postimg.cc/MHZPMsZD/mediamodifier-I3-HPUolh5h-A-unsplash.jpg");
+    background-size: cover; 
+} 
