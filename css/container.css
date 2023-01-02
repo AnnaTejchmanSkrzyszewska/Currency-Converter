@@ -5,7 +5,7 @@
     font-family: Montserrat, sans-serif;
     display: flex;  
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
     background-image: url("https://i.postimg.cc/MHZPMsZD/mediamodifier-I3-HPUolh5h-A-unsplash.jpg");
     background-size: cover; 
 } 
