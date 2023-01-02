@@ -8,4 +8,7 @@ html {
 
 body {
     font-family: Montserrat sans-serif;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
 }
