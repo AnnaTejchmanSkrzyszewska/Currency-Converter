@@ -10,5 +10,6 @@ body {
     font-family: Montserrat sans-serif;
     display: flex;
     align-items: center;
-    min-height: 70vh;
+    background-image: url("https://i.postimg.cc/MHZPMsZD/mediamodifier-I3-HPUolh5h-A-unsplash.jpg");
+    background-repeat: no-repeat;
 }
