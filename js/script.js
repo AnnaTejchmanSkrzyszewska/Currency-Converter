@@ -1,5 +1,5 @@
 {
-    const calculateResult = (sum, currency) => {
+    const calculateResult = (amount, currency) => {
 
         const EUR = 4.68;
         const GBP = 5.35;
@@ -7,16 +7,11 @@
 
         switch (currency) {
             case "EUR":
-
-                return sum / EUR;
-
+                return amount / EUR;
             case "GBP":
-
-                return sum / GBP;
-
+                return amount / GBP;
             case "USD":
-
-                return sum / USD;
+                return amount / USD;
         }
     };
 
@@ -27,10 +22,10 @@
         const currencyElement = document.querySelector(".js-currency");
 
 
-        const sum = +inputElement.value;
+        const amount = +inputElement.value;
         const currency = currencyElement.value;
 
-        const result = calculateResult(sum, currency);
+        const result = calculateResult(amount, currency);
         
         const resultElement = document.querySelector(".js-result");
 
