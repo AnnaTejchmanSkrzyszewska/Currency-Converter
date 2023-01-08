@@ -13,7 +13,7 @@ Technologies:
 
 - HTML
 - CSS
-- JS
+- JavaScript ES6 features: let and const keywords, arrow functions, template literals
 - BEM
 - GIT
 
