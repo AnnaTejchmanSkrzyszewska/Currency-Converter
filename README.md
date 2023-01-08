@@ -4,7 +4,6 @@
 
 https://annatejchmanskrzyszewska.github.io/Currency-Converter/
 
-
 ![converter image](https://github.com/AnnaTejchmanSkrzyszewska/Currency-Converter/blob/main/images/currency.png)
 
 ## Description
